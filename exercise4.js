@@ -1,3 +1,5 @@
+// See http://expressjs.com/
+
 var express = require('express');
 var app = express.createServer();
 
